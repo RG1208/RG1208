@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @RG1208
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS 
-- 
+- 👋 Hi, I’m Rachit Garg
+  👀 I’m interested in Web Development
+- 🌱 I’m currently learning Java-Script,HTML,CSS
 - 📫 How to reach me rachitgarg1208@gmail.com
 
 <!---
