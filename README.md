@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rachit</h1>
+<h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">Full Stack GenAI Developer | Building Intelligent, Scalable Systems</h3>
 
 ---
