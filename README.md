@@ -12,14 +12,6 @@ Experienced in RAG pipelines, LLM integration, and Agentic AI systems, with a fo
 Currently exploring advanced AI architectures and cloud-based scalable systems.
 
 ---
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rg1208)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rachitgarg1208@gmail.com)
-
-🌍 Portfolio: https://rachitgarg.me/
-
 ---
 
 ## 💻 Tech Stack
